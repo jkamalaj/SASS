@@ -1,7 +1,12 @@
 nav{
+    height: 100px;
     .logo{
         text-align: center;
         color: white;
         margin-top: 10px;
+    }
+    ul{
+        align-items: center;
+        padding: 20px;
     }
 }
